@@ -6,7 +6,7 @@ A very tiny wordpress plugin to show and hide contents based on url get variable
 Sample Shortcode: 
 
 ```sh 
-> [url_get get="a" value="download"]Here is Secret Contents[/url_get] 
+ [url_get get="a" value="download"]Here is Secret Contents[/url_get] 
 ```
 
 if your url have variable "a" and value "download" as an example http://domain.com/?a=download then the shortcode will show the "Here is Secret Contents" you can use any html content into there. even you can use any shortcode into your secret content area! Easy yah!
